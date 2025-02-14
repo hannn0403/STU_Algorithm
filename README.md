@@ -3,7 +3,7 @@
 - [이번주차 공통 문제 확인하러 가기](./problem.md)
 - [챌린지 참여 현황 확인하러 가기](#%EC%B0%B8%EC%84%9D-%EC%97%AC%EB%B6%80)
 
-25년 1월 13일 (월)부터 시작되는 알고리즘 및 코딩테스트 문제 풀이 챌린지입니다. 25년 상반기 개발자 / AI 엔지니어 취업 및 동기 부여 목적으로 운영되고 있습니다. 
+25년 2월 14일 (금)부터 시작되는 알고리즘 및 코딩테스트 문제 풀이 챌린지입니다. 25년 상반기 개발자 / AI 엔지니어 취업 및 동기 부여 목적으로 운영되고 있습니다. 
 1차 챌린지는 올해 상반기(6월 30일)까지 기한을 두고 있으며, 그와 별개로 챌린지에 참여한 인원 중 과반수가 인턴 및 정직원 채용에 성공한 경우 남은 기한 상관 없이 종료할 예정입니다.
 
 챌린지 참여 방법은 해당 [링크](https://waytocse.tistory.com/59)를 참고해주시면 감사하겠습니다.
@@ -32,8 +32,8 @@
 4. 폴더 규칙
    - 파일 이름은 자유롭게 작성 가능 (다만, README 파일에 어떤 문제의 풀이 코드인지 명시할 것)
 ```
-.STU_Algorithm
-├── ChaJunYeong              # 본인 이름으로 디렉토리 생성
+.STU_Algorithm (이름 아직 미정) 
+├── HanJuHyuk              # 본인 이름으로 디렉토리 생성
 │   ├── README.md            # 문제 정보 공유
 │   ├── [BOJ]                # 백준 문제 풀이
 │   │   ├── 1330_두수비교하기.py
@@ -43,7 +43,7 @@
 │   ├── [PGS]                # (Optional) 프로그래머스 문제 풀이
 │   ├── [SEA]                # (Optional) 삼성 SW Expert Academy 문제 풀이
 │   └── [STU]                # (Optional) 개인 공부 정리
-├── ParkYunSU
+├── ChaJunYeong
 ...
 ```
 </br>
@@ -53,7 +53,7 @@
    - Description : 문제 링크 (option)
    - 터미널에서 작성법
 ```
-git commit -m "25/01/08 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
+git commit -m "25/02/14 문제 풀이" -m "https://www.acmicpc.net/problem/1330"
 ```
 </br>
 
@@ -76,20 +76,10 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 
 # 🧑‍💻 챌린지 참가자
 <table><tr>         
-   <td align="center"><a href="https://github.com/sinya3558"><img src="https://avatars.githubusercontent.com/u/70243358?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>sinya3558</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/hoooddy"><img src="https://avatars.githubusercontent.com/u/35017649?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>hoooddy</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/hjey"><img src="https://avatars.githubusercontent.com/u/94843707?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>hjey</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/PARKYUNSU"><img src="https://avatars.githubusercontent.com/u/125172299?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>PARKYUNSU</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/2"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/MyoungJinSon"><img src="https://avatars.githubusercontent.com/u/46157544?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>MyoungJinSon</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/15"/></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/hannn0403"><img src="https://avatars.githubusercontent.com/u/35449467?v=4?s=100" width="100px;" alt=""/>
+   <br /><sub><b>hannn0403</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
    <td align="center"><a href="https://github.com/cjy8922"><img src="https://avatars.githubusercontent.com/u/34412522?v=4?s=400" width="100px;" alt=""/>
    <br /><sub><b>cjy8922</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/23"/></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/po2955"><img src="https://avatars.githubusercontent.com/u/84663334?v=4?s=100" width="100px;" alt=""/>
-   <br /><sub><b>po2955</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/14"/></sub></a><br /></td>
 </tr>
 </table>
 </br>
@@ -100,12 +90,8 @@ git commit -m "25/01/11 공통 문제 풀이 (학부 연구생 민상)" -m "http
 - ✔️ : 개인 사정으로 인한 면제
 - ❌ : 불참
 
-||sinya3558|hoooddy|hjey|PARKYUNSU|MyoungJinSon|cjy8922|po2955|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|01/12 ~ 01/18 </br> (1주차) |❌|✅|✅|☑️|✅|✅|✅|
-|01/19 ~ 01/25 </br> (2주차) |❌|✅|✅|❌|✅|✅|✅|
-|01/26 ~ 02/01 </br> (3주차) |✔️|✔️|✔️|✔️|✔️|✔️|✔️|
-|02/02 ~ 02/08 </br> (4주차) |❌|✅|☑️|❌|✅|✅|✅|
+||hannn0403|cjy8922|
+|:---:|:---:|:---:|
 </br>
 
 -------
